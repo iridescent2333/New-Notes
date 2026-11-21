@@ -1,1 +1,2 @@
--
+- 今天开始使用obsidian和github的组合来同步本地笔记
+- 配合AI工具处理markdown格式文件，生成整理笔记，
