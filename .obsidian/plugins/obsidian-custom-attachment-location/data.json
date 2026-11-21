@@ -48,7 +48,7 @@
   "shouldCollectAttachmentsAutomatically": false,
   "shouldCommitBulkOperations": false,
   "shouldDeduplicateIdenticalAttachments": false,
-  "shouldFollowObsidianAttachmentLocation": true,
+  "shouldFollowObsidianAttachmentLocation": false,
   "shouldKeepNamesOfPastedNonScreenshotFiles": false,
   "shouldPreserveImageMetadata": false,
   "shouldRenameCollectedAttachments": false,
