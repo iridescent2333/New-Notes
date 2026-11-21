@@ -17,7 +17,7 @@
   "excludePathsFromAttachmentCollecting": [],
   "excludePathsFromMultipleNotesCheck": [],
   "generatedAttachmentFileName": "file-{{date:YYYYMMDDHHmmssSSS}}",
-  "insertedLinkText": "./assets/{{noteFileName}}",
+  "insertedLinkText": "",
   "jpegQuality": 0.8,
   "manuallyRenamedAttachmentFileName": "",
   "markdownUrlFormat": "assets/{{noteFileName}}/{{generatedAttachmentFileName}}",
