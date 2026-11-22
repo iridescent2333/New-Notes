@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ff26e1723f783635","type":"text","text":"考研计划","x":-100,"y":-18,"width":124,"height":60},
+		{"id":"7516473222abe710","type":"file","file":"考研专业学习/开始.md","x":100,"y":-188,"width":400,"height":400,"color":"3"},
+		{"id":"38cd7fe1ad2fcf24","x":820,"y":42,"width":400,"height":172,"color":"5","type":"file","file":"考研专业学习/考研报名择校相关.md"},
+		{"id":"7c438e1ac0ea72fa","type":"file","file":"考研专业学习/c语言基础学复习.md","x":820,"y":-186,"width":400,"height":168,"color":"4"},
+		{"id":"c76c5bb577bf1e38","x":560,"y":-18,"width":165,"height":60,"type":"text","text":"备考前期"}
+	],
+	"edges":[
+		{"id":"614b0fde5b86e812","fromNode":"7516473222abe710","fromSide":"left","toNode":"ff26e1723f783635","toSide":"right"},
+		{"id":"6bd2815312667e6c","fromNode":"7c438e1ac0ea72fa","fromSide":"left","toNode":"c76c5bb577bf1e38","toSide":"right","color":"4"},
+		{"id":"db8f2ee3e05d0f8a","fromNode":"38cd7fe1ad2fcf24","fromSide":"left","toNode":"c76c5bb577bf1e38","toSide":"right","color":"5"},
+		{"id":"a1790981152915ba","fromNode":"c76c5bb577bf1e38","fromSide":"left","toNode":"7516473222abe710","toSide":"right"}
+	]
+}

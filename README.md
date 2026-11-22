@@ -1,0 +1,1 @@
+- 这是一个我尝试结合obsidian和github进行以markdown格式为主的笔记整理和同步仓库，使用obsidian第三方此插件git每1min进行笔记同步github。
